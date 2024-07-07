@@ -1,8 +1,6 @@
 # Netflix Movie-recomendation-system
 
-Certainly! Here's a detailed README file template for your collaborative filtering movie recommendation project:
 
----
 
 # Movie Recommendation System using Collaborative Filtering
 
