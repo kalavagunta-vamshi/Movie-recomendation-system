@@ -16,10 +16,9 @@ This project implements collaborative filtering (CF) techniques to build a movie
 4. [Model Selection and Implementation](#model-selection-and-implementation)
 5. [Evaluation Metrics](#evaluation-metrics)
 6. [Results and Analysis](#results-and-analysis)
-7. [Usage](#usage)
 8. [Conclusion](#conclusion)
 9. [Future Enhancements](#future-enhancements)
-10. [References](#references)
+
 
 ## Introduction
 
@@ -96,21 +95,7 @@ The dataset used contains user ratings for movies. Ensure the dataset is placed 
 - Discuss the best-performing models based on evaluation metrics.
 - Interpret strengths and weaknesses of each CF technique.
 
-## Usage
 
-### Running the Models
-
-1. **Train and Evaluate Models**:
-
-```bash
-python train_models.py
-```
-
-2. **Generate Recommendations**:
-
-```bash
-python recommend_movies.py --user_id <user_id>
-```
 
 ## Conclusion
 
