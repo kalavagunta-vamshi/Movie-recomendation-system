@@ -15,9 +15,8 @@ This project implements collaborative filtering (CF) techniques to build a movie
 3. [Data Collection and Preprocessing](#data-collection-and-preprocessing)
 4. [Model Selection and Implementation](#model-selection-and-implementation)
 5. [Evaluation Metrics](#evaluation-metrics)
-6. [Results and Analysis](#results-and-analysis)
-8. [Conclusion](#conclusion)
-9. [Future Enhancements](#future-enhancements)
+6. [Conclusion](#conclusion)
+7. [Future Enhancements](#future-enhancements)
 
 
 ## Introduction
@@ -83,7 +82,7 @@ The dataset used contains user ratings for movies. Ensure the dataset is placed 
 - **RMSE**: Measures the deviation of predicted ratings from actual ratings.
 - **MAPE**: Calculates the percentage difference between predicted and actual ratings.
 
-## Results and Analysis
+
 
 ### Performance Comparison
 
